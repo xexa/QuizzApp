@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="initializing">Initializing…</string>
+    <string name="quizz">Quizz</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="quiz_description">Quiz Description</string>
+    <string name="quiz_title">Quiz Title</string>
+    <string name="view_quiz">View Quiz</string>
+    <string name="total_questions">Total questions</string>
+    <string name="your_last_score">Your last score</string>
+    <string name="loading_quiz">Loading Quiz…</string>
+    <string name="questions">Question</string>
+    <string name="fetching_data">Fetching data…</string>
+    <string name="verifying_answer">Verifying Answer</string>
+    <string name="option_button">Option Button</string>
+    <string name="next_question">Next Question</string>
+    <string name="na">NA</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="results">Results</string>
+    <string name="_100">100%</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="question_missed">Question Missed</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="go_to_home">Go to Home</string>
+    <string name="_0">0</string>
+    <string name="_10">10</string>
+</resources>
