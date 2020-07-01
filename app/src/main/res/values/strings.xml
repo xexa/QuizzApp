@@ -24,4 +24,8 @@
     <string name="go_to_home">Go to Home</string>
     <string name="_0">0</string>
     <string name="_10">10</string>
+    <string name="checking_user_account">Checking user Account…</string>
+    <string name="creating_new_account">Creating new Account</string>
+    <string name="account_created">Account created</string>
+    <string name="logged_in">Logged in</string>
 </resources>
